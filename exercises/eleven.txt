@@ -1,0 +1,1 @@
+I like ruby-doc better than apidock becasue the organization makes more sense, it seems to be more thorough in terms of differentiating between ruby versions and there are more examples. 
